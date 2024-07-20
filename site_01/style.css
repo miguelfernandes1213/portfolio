@@ -1,0 +1,68 @@
+body {
+    background-color: #173540;
+    color: aliceblue;
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif;
+    
+}
+  h1 {
+    position: fixed;
+    top: auto;
+    margin: 0;
+    left: 40%;
+  }
+ 
+
+  .um {
+    position: fixed;
+    top: 11em;
+    margin: 0;
+    left: 10%;
+    
+  }
+
+  .dois {
+    position: fixed;
+    top: 11em;
+    margin: 0;
+    left: 45%;
+  }
+
+  .tres {
+    position: fixed;
+    top: 11em;
+    margin: 0;
+    left: 80%;
+  }
+
+  .img1 {
+    position: fixed;
+    top: 17em;
+    margin: 0;
+    left: 9%;
+  }
+
+  .img2 {
+    position: fixed;
+    top: 17em;
+    left: 44%;
+  }
+
+  .img3 {
+    position: fixed;
+    top: 17em;
+    left: 79%;
+  }
+
+  .email {
+    position: fixed;
+    top: 36em;
+    margin: 0;
+    left: 41%;
+  }
+
+  /* .linha1 {
+    height: 1px;
+    background-color: #ffffff;
+    margin: 200px 0;
+  } */
